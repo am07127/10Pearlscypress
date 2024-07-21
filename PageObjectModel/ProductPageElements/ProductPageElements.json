@@ -1,0 +1,6 @@
+{
+    "ProductPageLocators": {
+        "img_link": "[data-test='item-4-img-link']",
+        "product_page": "[data-test='back-to-products']"
+    }
+}
